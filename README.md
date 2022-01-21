@@ -1,6 +1,8 @@
 # The Things Node for Helium LoRaWAN Network
 by [takeabyte](https://github.com/takeabyte/the-things-node_helium)
 
+
+
 ## Purpose
 This is a modification of the THINGS NETWORK Code to enable the The Things Node DevKit to run on Helium Network. 
 
@@ -17,5 +19,10 @@ To find your DevEUI open Terminal window within Platformio and press the button 
 
 
 It will push a Packet every 6 Hours as a heartbeat, or send instantly if you push the button or trigger the accelerometer. 
+
+
+![the-things-node](https://user-images.githubusercontent.com/10709642/150609058-a8324acf-cbb6-4bc9-9edd-25d068c4e5a4.jpeg)
+
+![node-reset-led](https://user-images.githubusercontent.com/10709642/150609052-1596d61b-d240-4643-b8a3-a9e6754b1ecf.jpeg)
 
 
